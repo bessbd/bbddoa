@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "coffee app.coffee",
-    "preinstall": "npm -g install coffee"
+    "preinstall": "npm install coffee-script"
   },
   "repository": {
     "type": "git",
